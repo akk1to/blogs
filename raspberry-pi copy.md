@@ -1,13 +1,13 @@
 ---
-title: "Visual Studio Code Configuration"
-description: "yea this is just about my Visual Studio Code configuration"
-date: 2025-02-27
-updated: 2025-02-28
+title: "Tóm tắt sơ lược về RaspberyPI"
+description: "Tìm hiểu sơ qua về Raspberry PI"
+date: 2025-03-05
+updated: 2025-03-05
 author: "akk1to.dev"
 heroImage: "https://images.alphacoders.com/135/1357322.jpeg"
-tags: "guide to post"
+tags: "raspberry pi"
 ---
-*Mình đã dùng VSCode 2020 đã được khá lâu, và mình đã config nó bằng nhiều extension để tăng trải nghiệm code của mình. Hôm nay mình chia sẻ config VSCode của mình để các bạn có thể tham khảo nếu cảm thấy hứng thú nhé!*
+*Bo mạch Raspberry PI là một loại máy tính bo mạch đơn, với kích thước chỉ bằng một thẻ tín dụng nhưng lại đóng vai trò như một chiếc máy tính mini. Trong bài viết này, mình sẽ giới thiệu sơ lược về Raspberry Pi nhé!*
 
 ## 1. Generate ideas & write a new post
 First, generate your ideas and write a new post using Markdown format. You can use popular Markdown editors like [StackEdit](https://stackedit.io) or [Visual Studio Code](https://code.visualstudio.com) to assist you in writing. For every post, be sure to follow the specified file format to ensure that your post is clearly displayed on the page.
